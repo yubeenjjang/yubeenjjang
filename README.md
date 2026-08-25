@@ -38,5 +38,4 @@ AI 서비스를 직접 설계하고 구현할 수 있는
 
 학습 기록과 스터디 활동을 관리하고,
 AI 기반 학습 분석과 멀티턴 학습 코칭을 제공하는 웹 서비스입니다.
-
-[🔗 GitHub Repository](https://github.com/encore-ai-campus/aio-01-p1-team3)
+[🔗 GitHub Repository](https://github.com/yubeenjjang/aio-01-p1-team3)
